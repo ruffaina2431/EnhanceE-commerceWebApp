@@ -1,0 +1,10 @@
+{
+  "description": "This e-commerce platform enhances online shopping experiences with improved design and user-friendly features, catering to businesses and consumers alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
